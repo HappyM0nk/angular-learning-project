@@ -1,0 +1,12 @@
+.header-menu {
+    padding: 0;
+    margin: auto;
+  
+    /* flexbox */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    align-items: flex-start;
+  }
